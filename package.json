@@ -1,0 +1,14 @@
+{
+  "name": "aman-sahu-assesment",
+  "version": "1.0.0",
+  "description": "solution for the given problem statement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Sahu",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
